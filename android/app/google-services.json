@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632348521208",
+    "project_id": "event-scheduler-928ca",
+    "storage_bucket": "event-scheduler-928ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632348521208:android:95509a63664937ba8e010d",
+        "android_client_info": {
+          "package_name": "com.eventscheduler.eventscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632348521208-6rjcf47il3nj1hf58bamvd1qkjg6o3n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJVsKIS1yHK0kWvWt9BLdz_ZpPSbzOUes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632348521208-6rjcf47il3nj1hf58bamvd1qkjg6o3n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
