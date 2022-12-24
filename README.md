@@ -1,6 +1,8 @@
 # eventscheduler
 
-A new Flutter project.
+A flutter Project.
+
+"""Here's the preview"""
 
 ## Getting Started
 
