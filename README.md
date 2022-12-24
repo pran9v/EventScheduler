@@ -4,6 +4,9 @@ A flutter Project.
 
 <b>Here's the preview</b>
 
+https://user-images.githubusercontent.com/109653505/209434451-3fe666b9-947d-45a9-996f-6171472fcc7a.mp4
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
